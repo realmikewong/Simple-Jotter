@@ -34,7 +34,10 @@ export default function Home() {
             Minimal Thoughts
           </h1>
           <p className="text-lg text-muted-foreground max-w-md mx-auto leading-relaxed">
-            A clean space to share your mind. No distractions, just one line at a time.
+            A clean space to share what's on your mind.
+          </p>
+          <p className="text-lg text-muted-foreground max-w-md mx-auto leading-relaxed">
+            No distractions, just one line at a time.
           </p>
         </div>
 
